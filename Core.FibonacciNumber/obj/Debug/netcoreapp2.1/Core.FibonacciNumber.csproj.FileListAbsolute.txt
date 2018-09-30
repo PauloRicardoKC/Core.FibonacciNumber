@@ -1,0 +1,11 @@
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\bin\Debug\netcoreapp2.1\Core.FibonacciNumber.deps.json
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\bin\Debug\netcoreapp2.1\Core.FibonacciNumber.runtimeconfig.json
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\bin\Debug\netcoreapp2.1\Core.FibonacciNumber.runtimeconfig.dev.json
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\bin\Debug\netcoreapp2.1\Core.FibonacciNumber.dll
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\bin\Debug\netcoreapp2.1\Core.FibonacciNumber.pdb
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.csprojAssemblyReference.cache
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.AssemblyInfoInputs.cache
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.AssemblyInfo.cs
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.dll
+C:\Users\Alegria\Source\Repos\Core.FibonacciNumber\Core.FibonacciNumber\obj\Debug\netcoreapp2.1\Core.FibonacciNumber.pdb
